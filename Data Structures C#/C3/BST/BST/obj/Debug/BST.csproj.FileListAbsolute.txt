@@ -1,0 +1,7 @@
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\bin\Debug\BST.exe.config
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\bin\Debug\BST.exe
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\bin\Debug\BST.pdb
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\obj\Debug\BST.csproj.AssemblyReference.cache
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\obj\Debug\BST.exe
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\C3\BST\BST\obj\Debug\BST.pdb

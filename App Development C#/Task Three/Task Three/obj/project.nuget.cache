@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdL2tqUBelQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonty\\OneDrive\\Desktop\\App Dev\\Tasks\\Task Three\\Task Three\\Task Three.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonty\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
+    "C:\\Users\\jonty\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
+    "C:\\Users\\jonty\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\jonty\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\jonty\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\jonty\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

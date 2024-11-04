@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|c:\\users\\jonty\\onedrive\\desktop\\data sctructures\\a1\\a1_parta\\a1_parta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|solutionrelative:a1_parta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\a1_parta\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|solutionrelative:a1_parta\\mydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\a1_parta\\nodeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8A58BD-F5CB-44FD-9E30-28D7D189A7D1}|A1_PartA\\A1_PartA.csproj|solutionrelative:a1_parta\\nodeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\NodeEntry.cs",
+              "RelativeDocumentMoniker": "A1_PartA\\NodeEntry.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\NodeEntry.cs",
+              "RelativeToolTip": "A1_PartA\\NodeEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:39:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\MyDictionary.cs",
+              "RelativeDocumentMoniker": "A1_PartA\\MyDictionary.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\MyDictionary.cs",
+              "RelativeToolTip": "A1_PartA\\MyDictionary.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:38:59.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\Program.cs",
+              "RelativeDocumentMoniker": "A1_PartA\\Program.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\A1\\A1_PartA\\A1_PartA\\Program.cs",
+              "RelativeToolTip": "A1_PartA\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwv9YAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:37:52.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

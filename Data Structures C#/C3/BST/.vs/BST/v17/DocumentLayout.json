@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|c:\\users\\jonty\\onedrive\\desktop\\data sctructures\\c3\\bst\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|solutionrelative:bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\bst\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|solutionrelative:bst\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\bst\\bstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068F8656-BF3D-4D5D-B3E3-B2578EC8BA9F}|BST\\BST.csproj|solutionrelative:bst\\bstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\Node.cs",
+              "RelativeDocumentMoniker": "BST\\Node.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\Node.cs",
+              "RelativeToolTip": "BST\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:12:59.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSTree.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\BSTree.cs",
+              "RelativeDocumentMoniker": "BST\\BSTree.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\BSTree.cs",
+              "RelativeToolTip": "BST\\BSTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:12:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\Program.cs",
+              "RelativeDocumentMoniker": "BST\\Program.cs",
+              "ToolTip": "C:\\Users\\jonty\\OneDrive\\Desktop\\Data Sctructures\\C3\\BST\\BST\\Program.cs",
+              "RelativeToolTip": "BST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:11:38.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

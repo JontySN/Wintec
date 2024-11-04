@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Task_Two.Calculator"
+             Title="Prime Number Calculator">
+    <VerticalStackLayout Margin="0,50" MaximumWidthRequest="600" Spacing="30">
+        <Label 
+            Text="COMP609 Calculator app" FontSize="30"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <!-- Title for Input -->
+        <Label Text="Enter 2 prime numbers" FontSize="25" HorizontalOptions="Center"/>
+        <VerticalStackLayout Margin="0,50" MaximumWidthRequest="430" Spacing="30">
+            <HorizontalStackLayout Spacing="10" Padding="10">
+                <!-- TextBox for User Input -->
+                <Entry x:Name="NumberEntry" WidthRequest="200" HeightRequest="50"/>
+                <!-- Button for Calculate and Reset -->
+                <Button x:Name="btnCalculate" Text="Calculate" WidthRequest="100" HeightRequest="50" Clicked="btnCalculate_Click"/>
+                <Button x:Name="btnReset" VerticalOptions="Center" WidthRequest="100" HeightRequest="50" Text="Reset" Clicked="btnReset_Click"/>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+        <!-- Label for Displaying Results -->
+        <Label x:Name="lblResult" Text="Results:" FontSize="20"/>
+    </VerticalStackLayout>
+</ContentPage>

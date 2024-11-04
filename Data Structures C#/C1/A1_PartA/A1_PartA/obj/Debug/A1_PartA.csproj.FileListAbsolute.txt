@@ -1,0 +1,7 @@
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\bin\Debug\A1_PartA.exe.config
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\bin\Debug\A1_PartA.exe
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\bin\Debug\A1_PartA.pdb
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\obj\Debug\A1_PartA.csproj.AssemblyReference.cache
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\obj\Debug\A1_PartA.csproj.CoreCompileInputs.cache
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\obj\Debug\A1_PartA.exe
+C:\Users\jonty\OneDrive\Desktop\Data Sctructures\A1_PartA\A1_PartA\obj\Debug\A1_PartA.pdb
